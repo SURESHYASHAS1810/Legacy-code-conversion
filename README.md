@@ -54,5 +54,5 @@ Built with passion by a 5-member student team of Mind Melders at the hackathon �
 ## 👨🏻‍💻 Results
 
 
-![CLI Output](https://github.com/rishikesh2k4/Legacy-code-conversion/blob/main/assets/legacycodeoutputss.png?raw=true)
+![CLI Output](https://github.com/SURESHYASHAS1810/Legacy-code-conversion/blob/main/assets/legacycodeoutputss.png)
 
